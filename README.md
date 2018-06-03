@@ -10,5 +10,5 @@ Generation of Intensive Features (Density) from Extensive Features (mass, height
 [Energy Indicators](https://nbviewer.jupyter.org/github/kylejlynch/Select_Assignments/blob/master/Assignment3.ipynb)  
 Data extraction and cleaning of the csv file Energy Indicators.xls, which is a list of indicators of energy supply and renewable electricity production from the United Nations for the year 2013. Displays use of Pandas, regular expressions, Numpy, lambda functions, and list comprehension.
 
-[Assignment 4](https://nbviewer.jupyter.org/github/kylejlynch/Select_Assignments/blob/master/Assignment4.ipynb)  
+[Effects of Recessions on University Towns (Large Data, statistical analysis)](https://nbviewer.jupyter.org/github/kylejlynch/Select_Assignments/blob/master/Assignment4.ipynb)  
 Use of Pandas and SciPy Stats (t-tests) on a large dataset to test a hypothesis that university towns are less effected by recessions than non-university towns.
