@@ -5,7 +5,7 @@ This repository contains select projects and homework assignments that I feel sh
 Please click the links below to view the assignments:
 
 [Supervised Machine Learning Models (Machine Learning, various regression models)](https://github.com/kylejlynch/Assignments/blob/master/Assignment%2B2.ipynb)  
-Practice using various supervised machine learning models - Polynomial LinearRegression, Ridge and Lasso linear regression, Support Vector Classifiers. Recognizing overfit and underfit models.
+Practice using various supervised machine learning models - Polynomial linear regression, Ridge and Lasso linear regression, and Support Vector Classifiers. Recognizing overfitted and underfitted models.
 
 [Fruits Dataset (Machine Learning, k-Nearest Neighbors)](https://nbviewer.jupyter.org/github/kylejlynch/Assignments/blob/master/k-NN_Feature_Improvement.ipynb)  
 Generation of Intensive Features (Density) from Extensive Features (mass, height, width) and modeling fruit as ellipsoids to improve k-Nearest Neighbors classification.
